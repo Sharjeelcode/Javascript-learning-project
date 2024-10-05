@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #121212;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  color: white;
+  gap: 10px;
+}
+
+#time {
+  background-color: rgb(255, 183, 0);
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+  font-size: 20px;
+}
